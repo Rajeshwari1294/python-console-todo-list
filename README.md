@@ -30,7 +30,6 @@ You can add, view, and remove tasks. All tasks are saved to a file so your list 
 ## Example todo.txt Contents
 
 Buy groceries
-Complete internship assignment
 Read a book
 Exercise for 30 minutes
 Call a friend
